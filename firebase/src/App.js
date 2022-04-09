@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <Header />
-      <div className="container mx-auto flex flex-wrap px-4 ">
+      <div className="container mx-auto flex flex-wrap gap-2 px-4 ">
         <Card />
       </div>
       <Footer />
